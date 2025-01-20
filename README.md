@@ -1,7 +1,6 @@
 ### 👋 Hi! My name is Mustafa
 ### 📍 Kazan, Russia
-### 👨‍💻 JS, TS, React and more
-### 👀 Hobbies: ⚽️ Football, 🗺️ Travelling
+### 👨‍💻 JS, TS, React, NextJS
 <!--
 **mustafagarko/mustafagarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
